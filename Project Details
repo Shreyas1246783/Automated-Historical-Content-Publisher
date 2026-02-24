@@ -1,0 +1,23 @@
+✨ Features
+   🗓️ Daily Scheduled Automation – Runs automatically every day at a fixed time using n8n Schedule Trigger.
+   🤖 AI-Powered Content Generation – Uses Google Gemini to generate engaging LinkedIn posts about historical events.
+   💼 LinkedIn Auto Posting – Automatically publishes posts to your LinkedIn profile or company page.
+   🧠 Professional Prompt Engineering – Generates posts with hooks, explanations, hashtags, and engagement questions.
+   
+🏗️ Workflow Overview
+    *Schedule Trigger – Runs daily at a specific time.
+    *Gemini AI Chain – Finds a historical fact and generates LinkedIn content.
+    *LinkedIn Node – Publishes the generated post automatically.
+   
+🛠️ Tech Stack
+    *n8n (Workflow Automation)
+    *Google Gemini API (AI Content Generation)
+    *LinkedIn API (Auto Posting)
+    *JavaScript / JSON Workflow Configuration
+
+🎯 Use Cases
+    *Personal LinkedIn branding
+    *AI content automation
+    *Social media marketing
+    *Educational history content
+    *Portfolio AI project
